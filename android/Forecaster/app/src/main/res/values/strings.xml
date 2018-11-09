@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Forecaster</string>
+
+    <string name="user_cancel">User canceled Facebook Login</string>
+    <string name="login_error">Error on auth</string>
+    <string name="login_ok">Successfully Logged</string>
+
+
+    <string name="weather_key" translatable="false">XXXXXXXXXXXX</string>
+    <string name="facebook_app_id" translatable="false">XXXXXXXXXXXX</string>
+    <string name="fb_login_protocol_scheme" translatable="false">XXXXXXXXXXXX</string>
+
+    <string name="title_activity_main" translatable="false">Forecaster</string>
+    <string name="title_location">GPS Location</string>
+    <string name="title_london">London</string>
+    <string name="title_facebook" translatable="false">Login</string>
+
+    <string name="max" translatable="false">MAX:</string>
+    <string name="min" translatable="false">MIN:</string>
+
+</resources>

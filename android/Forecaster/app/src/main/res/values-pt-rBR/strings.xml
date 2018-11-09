@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forecaster</string>
+    <string name="user_cancel">Cancelado Pelo Usuário</string>
+    <string name="login_error">Erro no Login</string>
+    <string name="title_location">Localização GPS</string>
+    <string name="title_london">Londres</string>
+    <string name="login_ok">Registrado com sucesso</string>
+</resources>
